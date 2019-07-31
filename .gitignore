@@ -1,0 +1,17 @@
+__pycache__/
+
+# Environments
+.venv
+venv/
+
+.idea/
+
+*event_data_train.csv
+*lyrics.csv
+
+
+.ipynb_checkpoints/
+
+data/
+
+stepik_mashine_learning_course/data/
